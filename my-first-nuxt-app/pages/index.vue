@@ -6,7 +6,7 @@
         my-first-nuxt-app
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+        Hello, world
       </h2>
       <div class="links">
         <a
