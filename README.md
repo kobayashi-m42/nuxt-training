@@ -1,2 +1,2 @@
 # nuxt-training
-Nuxt.jsの学習用
+[Nuxt.js ビギナーズガイド](https://nuxt-beginners-guide.elevenback.jp/)を参考に、Nuxt.jsを学習するためのプロジェクト。

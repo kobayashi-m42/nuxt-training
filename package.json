@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-training",
+  "version": "1.0.0",
+  "description": "Nuxt.jsの学習用",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kobayashi-m42/nuxt-training.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kobayashi-m42/nuxt-training/issues"
+  },
+  "homepage": "https://github.com/kobayashi-m42/nuxt-training#readme",
+  "devDependencies": {
+    "@vue/cli": "^3.5.1",
+    "@vue/cli-init": "^3.5.1"
+  }
+}
