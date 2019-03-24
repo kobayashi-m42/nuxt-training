@@ -3,6 +3,9 @@ import pkg from './package'
 export default {
   mode: 'universal',
   srcDir: 'app',
+  router: {
+    middleware: ['auth-cookie']
+  },
   /*
    ** Headers of the page
    */
@@ -24,7 +27,7 @@ export default {
   /*
    ** Global CSS
    */
-  css: ['element-ui/lib/theme-chalk/index.css'],
+  css: ['element-ui/lib/theme-chalk/index.css', '~/assets/common.css'],
 
   /*
    ** Plugins to load before mounting the App
