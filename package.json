@@ -14,6 +14,7 @@
   "homepage": "https://github.com/kobayashi-m42/nuxt-training#readme",
   "devDependencies": {
     "@vue/cli": "^3.5.1",
-    "@vue/cli-init": "^3.5.1"
+    "@vue/cli-init": "^3.5.1",
+    "create-nuxt-app": "^2.6.0"
   }
 }
